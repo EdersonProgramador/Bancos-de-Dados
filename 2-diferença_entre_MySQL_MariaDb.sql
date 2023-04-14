@@ -1,0 +1,3 @@
+- 2008 a SUN adquiriu a desenvolvedora do MySQL.
+- 2009 a Oracle adquiriu a SUN, junto do MySQL.
+- 2009 criou-se o MariaDB.
